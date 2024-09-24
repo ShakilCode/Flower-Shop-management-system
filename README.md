@@ -1,5 +1,5 @@
 
-# Flower Shop Management System  - Android App
+# Android App - Flower Shop Management System
 
 
 This Android application serves as a comprehensive Flower Shop Management System designed to streamline operations for both users and administrators. The system integrates various functionalities such as user registration, product management, order processing, and database connections to UserInfo, Category, Product, Invoice, and Orders.
